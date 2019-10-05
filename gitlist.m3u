@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Futbol", La liga Bar
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/21873.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Futbol", La liga TV HD
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/21868.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Toros", M Toros
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/1017.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Cocina", Cocina
+http://univrse-ip.world:8000/live/MohamedZahran/MohamedZahran/37311.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="General", #0 HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/45609.ts
+#EXTINF:0 type="stream" channelId="-1" group="Documentales", Discovery Chanel HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/45539.ts
+#EXTINF:0 type="stream" channelId="-1" group="Peliculas", Hollywood
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/45618.ts
+#EXTINF:0 type="stream" channelId="-1" group="Futbol", La Liga Bar 2
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/45561.ts
+#EXTINF:0 type="stream" channelId="-1" group="Documentales", National Geographic HD
+http://echootv.tv:2086/live/petra_vdLiha/MrecckQS/45542.ts

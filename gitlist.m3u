@@ -40,67 +40,66 @@ http://viptv.accesss.me:25461/12AlanSS091301/800193866/399
 #EXTINF:0 type="stream" channelId="-1" group="Documentales", Odisea FHD
 http://viptv.accesss.me:25461/12AlanSS091301/800193866/3829
 #EXTINF:-1,ES: Bein Sports 4K+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19250.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19250.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: Bein Sprots HD+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19251.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19251.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: Bein Sports
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19252.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19252.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: Bein Sports Ñ HD
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19310.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19310.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: Bein La Liga 4K+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19253.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19253.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: Bein La Liga HD+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19254.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19254.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: Bein La Liga
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19255.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19255.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: La Liga TV BAR 4K+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19256.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19256.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: LA Liga TV BAR HD+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19257.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19257.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: LA Liga TV BAR
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19258.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19258.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: GOL TV
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19259.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19259.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: M. Futbol 4K+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19260.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19260.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: M. Futbol HD+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19261.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19261.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: M. Futbol
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19262.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19262.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: M. Deportes 1 4K+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19263.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19263.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: M. Deportes 1 HD+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19264.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19264.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: M. Deprotes 1
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19265.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19265.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: M. Deportes 2 4K+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19266.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19266.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: M. Deportes 2 HD+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19267.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19267.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: M. Deportes 2
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19268.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19268.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: M. Formula 1 4K+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19272.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19272.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: M. Formula 1 HD+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19273.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19273.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: M. Formula 1
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19274.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19274.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: M. Moto GP 4K+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19275.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19275.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: M. Moto GP HD+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19276.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19276.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: M. Golf 4K+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19269.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19269.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: M. Golf HD+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19270.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19270.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: M. Golf
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19271.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19271.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: Eurosport 1 4K+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19305.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19305.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: Eurosport 1 HD+
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19306.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19306.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: Eurosport 1
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19307.m3u8
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19307.m3u8|User-Agent=VLC
 #EXTINF:-1,ES: Eurosport 2
-http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19308.m3u8
-
+http://6070.nl:88/live/U1OuRXbzIg/Pbmj0z4QVP/19308.m3u8|User-Agent=VLC
